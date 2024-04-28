@@ -1,4 +1,4 @@
-// Assignment 01
+// ===========================Assignment 01==============================
 // Example
 // false // bool => Boolean
 
@@ -12,7 +12,7 @@
 // false  // bool => Boolean
 // 10.9  // float / double
 
-// Assignment 02
+// ===========================Assignment 02==============================
 // #include <iostream>
 
 // using namespace std;
@@ -23,7 +23,7 @@
 //   cout << sizeof(salary) * 8 <<endl; // 64 Bits //! check the answer
 // }
 
-// Assignment 03
+// ===========================Assignment 03==============================
 
 /* #include <iostream>
 // #include <limits.h>
@@ -43,7 +43,7 @@ int main ()
 "Maximum Short Integer Number Is => 32767"
 "Minimum Short Integer Number Is => -32768" */
 
-// Assignment 04
+// ===========================Assignment 04==============================
 
 /* #include <iostream>
 
@@ -56,7 +56,7 @@ int main()
   cout << sizeof(10.5f + 5 + 20.5f + 10) << "\n"; // 4
 } */
 
-// Assignment 05
+// ===========================Assignment 05==============================
 
 /* #include <iostream>
 
@@ -77,7 +77,7 @@ return 0;
 }
  */
 
-// Assignment 06
+// ===========================Assignment 06==============================
 /*
 #include <iostream>
 
@@ -102,7 +102,7 @@ int main()
   return 0;
 } */
 
-// Assignment 07
+// ===========================Assignment 07==============================
 /* #include <iostream>
 
 using namespace std;
@@ -117,7 +117,7 @@ int main()
   return 0;
 } */
 
-// Assignment 08
+// ===========================Assignment 08==============================
 /* #include <iostream>
 
 using namespace std;
@@ -136,7 +136,7 @@ int main()
   return 0;
 } */
 
-// Assignment 09
+// ===========================Assignment 09==============================
 /*
 #include <iostream>
 
@@ -158,7 +158,7 @@ int main()
   return 0;
 } */
 
-// Assignment 10
+// ===========================Assignment 10==============================
 /* #include <iostream>
 
 using namespace std;
@@ -176,7 +176,7 @@ int main()
 }
  */
 
-// Assignment 11
+// ===========================Assignment 11==============================
 
 /* #include <iostream>
 
@@ -194,7 +194,7 @@ int main()
   return 0;
 } */
 
-// Assignment 12
+// ===========================Assignment 12==============================
 
 #include <iostream>
 

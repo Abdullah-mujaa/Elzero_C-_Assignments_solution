@@ -1,4 +1,4 @@
-//1st assignment
+// ===========================Assignment 01==============================
 /* #include <iostream>
 using namespace std;
 
@@ -17,7 +17,7 @@ int main()
   return 0;
 } */
 
-//2nd assignment
+// ===========================Assignment 02==============================
 // #include <iostream>
 // using namespace std;
 
@@ -31,7 +31,7 @@ int main()
 //   return 0;
 // }
 
-//3rd assignment
+// ===========================Assignment 03==============================
 /*
   name        [ Valid | Good Practice ]
   NAME        [ Valid | Bad Practice ]
@@ -49,7 +49,7 @@ int main()
   Public      [ valid ] => Good Practice ] 
 */
 
-//4th assignment
+// ===========================Assignment 04==============================
 // #include <iostream>
 // using namespace std;
 
@@ -63,7 +63,7 @@ int main()
 //   return 0;
 // }
 //! i learned that we can make a string variable with the data type "string"
-//5th assignment
+// ===========================Assignment 05==============================
 // #include <iostream>
 // using namespace std;
 
@@ -80,7 +80,7 @@ int main()
 //   return 0;
 // }
 
-//6th assignment 
+// ===========================Assignment 06==============================
 
 // #include <iostream>
 // using namespace std;
@@ -95,7 +95,7 @@ int main()
 //   return 0;
 // }
 //! I learned that why can use bracket and algebra
-// 7th assignment
+// ===========================Assignment 07==============================
 
 // #include <iostream>
 // using namespace std;
@@ -124,7 +124,7 @@ int main()
 
 //! i learned that what cause error of two similar var is if they are global or in the same fun
 
-//8th Assignment
+// ===========================Assignment 08==============================
 // #include <iostream>
 // using namespace std;
 // int main()
@@ -142,7 +142,7 @@ int main()
 // }
 
 
-//9th Assignment
+// ===========================Assignment 09==============================
 
 // #include <iostream>
 // using namespace std;
@@ -160,7 +160,7 @@ int main()
 //   return 0;
 // }
 
-// 10th Assignment
+// ===========================Assignment 10==============================
 #include <iostream>
 using namespace std;
 
@@ -180,7 +180,7 @@ using namespace std;
 //   return 0;
 // }
 
-// 12th Assignment
+// ===========================Assignment 011==============================
 
 #include <iostream>
 using namespace std;
